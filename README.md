@@ -4,7 +4,7 @@ Demo project to manage AWS EC" instance snapshots
 
 This is a demo, and uses boto3 to manage AWS EC2 instabce snapshots
 
-## About
+## Config
 
 shotty uses the config gile by the aws cli.
 'aws configure --profile shotty'

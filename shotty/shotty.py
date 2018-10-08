@@ -1,5 +1,6 @@
 import boto3
 import click
+import requests
 
 session = boto3.Session(profile_name='shotty')
 ec2 = session.resource('ec2')
